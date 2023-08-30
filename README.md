@@ -1,15 +1,17 @@
-# ¡Hola! 👋
-#### ¡Bienvenido a mi perfil de GitHub! Aquí encontrarás algunos de mis proyectos y contribuciones. Permíteme contarte un poco sobre mí:
+# ¡Hello! 👋
+#### Welcome to my GitHub profile! Here you will find some of my projects and contributions. 
+#### Allow me to tell you a little about myself:
 
-## 👨‍💻 Sobre mí
-#### Soy Luciano, un estudiante universitario apasionado de 21 años con experiencia en programación de aplicaciones web y móviles, y habilidades en varios lenguajes de programación como Java, C# y JavaScript. Me esfuerzo constantemente por mejorar y colaboro efectivamente en proyectos en equipo o de manera independiente. Si deseas conocer más sobre mí, contáctame para tener una conversación sobre posibles oportunidades. 😊
+## 👨‍💻 About Me
+#### I'm Luciano, a passionate 21-year-old university student with experience in web and mobile application programming, and skills in various programming languages like Java, C#, and JavaScript. 
+#### I constantly strive to improve and collaborate effectively on team projects or independently. If you want to know more about me, feel free to contact me for a conversation about possible opportunities. 😊
 
-## 📫 Cómo contactarme
-#### Si tienes alguna pregunta o te gustaría colaborar en un proyecto, no dudes en contactarme:
-#### Correo electrónico: soulucianosuarez@gmail.com 📧
+## 📫 How to reach me
+#### If you have any questions or would like to collaborate on a project, don't hesitate to contact me:
+#### Email: soulucianosuarez@gmail.com 📧
 #### LinkedIn: https://www.linkedin.com/in/lucianosuarezdev/ 💼
 
-## ⭐ ¡Visita mis proyectos!
-#### No dudes en explorar mis repositorios y dejar tus comentarios o sugerencias. ¡Espero que encuentres algo interesante!
+## ⭐ ¡Visit my proyects!
+#### Feel free to explore my repositories and leave your comments or suggestions. I hope you find something interesting!
 
-#### ¡Gracias por visitar mi perfil! ¡Diviértete explorando! 🚀😄
+#### Thank you for visiting my profile! Have fun exploring! 🚀😄"
